@@ -1,0 +1,8 @@
+prefix=/home/oshri/ros_tutorials/catkin_ws/devel
+
+Name: ardrone_project
+Description: Description of ardrone_project
+Version: 0.0.0
+Cflags: -I/home/oshri/ros_tutorials/catkin_ws/devel/include
+Libs: -L/home/oshri/ros_tutorials/catkin_ws/devel/lib 
+Requires: message_runtime

@@ -1,0 +1,2 @@
+ardrone_project:tum_ardrone
+-DCATKIN_DEVEL_PREFIX=/home/oshri/ros_tutorials/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/oshri/ros_tutorials/catkin_ws/install -G Unix Makefiles

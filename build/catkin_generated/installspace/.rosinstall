@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/oshri/ros_tutorials/catkin_ws/install/setup.sh
